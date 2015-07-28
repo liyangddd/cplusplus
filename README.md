@@ -1,2 +1,2 @@
 # cplusplus
-something test useful about cpluscplus
+some testes about C++
